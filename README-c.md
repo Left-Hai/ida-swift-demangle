@@ -13,8 +13,10 @@
 4. 打开IDA : 右键 -> DemangleSwift -> demangle swift of all functions 转换所有函数
 
 ![usage](./pic/usage.png)
-![after](./pic/after.png)
-![before](./pic/before.png)
+使用前
+![after](./pic/before.png)
+使用后
+![before](./pic/after.png)
 
 ## About
 
