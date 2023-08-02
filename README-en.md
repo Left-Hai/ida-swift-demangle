@@ -13,6 +13,10 @@ Currently, only macOS and Windows 64-bit are supported, and only MacOS-IDA7.0 is
 3. Convert current function: `Right button -> DemangleSwift -> demangle swift of current functions` 
 4. Convert all function: `Right button -> DemangleSwift -> demangle swift of all functions`
 
+![使用方法](./pic/usage.png)
+![使用前](./pic/after.png)
+![使用后](./pic/before.png)
+
 ## About
 
 This project borrows heavily from other scripts or plugins on the web (listed below),
